@@ -1,1 +1,1 @@
-# Height-Weight-Linear-regresstion
+# Height-Weight-Linear-regression
